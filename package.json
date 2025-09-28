@@ -1,0 +1,14 @@
+{
+  "name": "promptpay-qr-demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "promptpay-qr": "^1.4.0",
+    "qrcode": "^1.5.4"
+  }
+}
